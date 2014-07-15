@@ -45,6 +45,7 @@ Create a new Mods::Record from a file:
 == Releases
 
 =======
+* <b>0.0.24</b> bug fixes and addition of from_file method
 * <b>0.0.23</b> minor bug and typo fixes
 * <b>0.0.22</b> add displayLabel and lang attributes to every element
 * <b>0.0.21</b> bug fix to check for nil values in name nodes
